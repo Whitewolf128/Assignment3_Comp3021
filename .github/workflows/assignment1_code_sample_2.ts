@@ -5,7 +5,7 @@ import * as http from 'http';
 
 const dbConfig = {
     host: 'mydatabase.com',
-    user: 'admin',
+    user: 'Zach',
     password: 'secret123',
     database: 'mydb'
 };
